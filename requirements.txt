@@ -1,0 +1,14 @@
+transformers
+torch
+networkx
+tweepy
+beautifulsoup4
+requests
+pandas
+numpy
+scikit-learn
+streamlit
+pymongo
+psycopg2-binary
+matplotlib
+d3graph
